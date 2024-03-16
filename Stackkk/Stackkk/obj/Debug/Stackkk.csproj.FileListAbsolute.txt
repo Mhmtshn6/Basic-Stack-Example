@@ -1,0 +1,7 @@
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\bin\Debug\Stackkk.exe.config
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\bin\Debug\Stackkk.exe
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\bin\Debug\Stackkk.pdb
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\obj\Debug\Stackkk.csproj.AssemblyReference.cache
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\obj\Debug\Stackkk.csproj.CoreCompileInputs.cache
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\obj\Debug\Stackkk.exe
+C:\Users\M.ŞAHİN\Source\Repos\Stackkk\Stackkk\obj\Debug\Stackkk.pdb
